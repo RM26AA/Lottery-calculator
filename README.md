@@ -28,15 +28,15 @@ The Lottery Calculator is a fun web application that randomly generates a "chanc
    cd your-repository-name
 3. Open the index.html file in a web browser to launch the app.
 
-How to Use
+How to Use:
 Enter your name, surname, age, and place of birth in the fields provided.
 Click the Calculate button to view your "lottery-winning chance."
 The result will appear below the button with a percentage display.
 
-License
+License:
 This project is open-source and available under the MIT License.
 
-Author
+Author:
 Romeo Maunick - A developer passionate about creating engaging and interactive web experiences.
 
 
